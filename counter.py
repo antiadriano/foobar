@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """ Using cocos & piglet libraries, is a small counter program 
-where when you push the up key it will add a number to the displayed value, and the down key will substract one """
+where when you push the up key it will add a number to the 
+displayed value, and the down key will substract one """
 
 # @antiadriano 2014
 
